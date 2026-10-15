@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "smurfsrage.aternos.me:33309",
+    "port": 33309,
     "version": "",
     "try-creative": false
   },
